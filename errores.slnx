@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="../edad/edad/edad.csproj" />
+  <Project Path="1_Validar_edad/1_Validar_edad.csproj" Id="ff5d3d1c-7a43-4a25-a2c9-c07e9612bc24" />
 </Solution>
